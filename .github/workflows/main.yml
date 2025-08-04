@@ -26,4 +26,3 @@ jobs:
     - name: Build App
       run: npm run build
 
-    CE_ID
