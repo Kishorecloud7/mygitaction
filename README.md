@@ -1,4 +1,4 @@
-# GitHub-Actions-Learning
+# GitHub-Actions
 
 
 ### Advantages of GitHub Actions over Jenkins
